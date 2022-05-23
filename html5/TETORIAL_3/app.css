@@ -1,0 +1,33 @@
+nav{
+    background-color: cornflowerblue;
+    padding: 1px;
+}
+li{
+ display: inline;
+}
+ul{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#Home{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+article > img{
+width: 100px;
+height: left;
+margin: 5px;
+}
+#blog{
+    display: flex;
+    width: auto;
+}
+footer{
+    background-color: gray;
+    color: azure;
+    padding: 10px;
+    text-align: center;
+}

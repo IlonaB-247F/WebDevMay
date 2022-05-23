@@ -1,0 +1,14 @@
+p{
+    color: darkorange !important;
+    font-size: x-large;
+}
+h4{
+    color:blue;
+}
+th{
+    color: rgb(255, 0, 0);
+    font-size: x-large;
+}
+table, th, td{
+    border: 1px solid;
+}
