@@ -1,0 +1,53 @@
+.header{
+    width: auto;
+    background-color: rgb(175, 148, 148);
+    padding: 10px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Intro{
+    width: auto;/url
+    background-color: rgb(175, 148, 148);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Intro > img{
+    justify-content: right;
+    display: flex;
+}
+
+.Intro > h1{
+    text-align: left;
+    }
+
+.Intro > p{
+text-align: left;
+}
+
+.menu > li{
+    color:rgb(139, 54, 54);
+    padding: 5px;
+    display: inline;
+    text-align: right;
+    text-decoration: none; 
+}
+ 
+    footer{
+        background-color: gray;
+        color: azure;
+        padding: 1px;
+        text-align: center;
+ }
+
+.photo-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+}

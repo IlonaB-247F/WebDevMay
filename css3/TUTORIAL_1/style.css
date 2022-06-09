@@ -1,0 +1,27 @@
+/* SelectById
+SelectByClass
+SelectByTagname
+SelectByAttributename*/
+
+fieldset {
+    border: 10px dashed brown;
+}
+/* select tagname by classname */
+.container{
+    border:2px solid brown;
+}
+/* select element by attribute */
+option[value="GTX1080"]{
+background-color: black !important;
+color: white;
+}
+label[name="computer1"]{
+    color: red;
+}
+
+body{
+    background: red;
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+}
