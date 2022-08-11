@@ -1,0 +1,33 @@
+
+{
+    "Tasks": [
+     {
+            "id": 1,
+            "task": "Afspraak bij huisarts"
+        },
+        {
+            "id": 2,
+            "task": "Afspraak bij dierenarts"
+        },
+        {
+            "id": 3,
+            "task": "Afspraak bij tandarts"
+        },
+        {
+            "id": 4,
+            "task": "Meeting op het werk"
+        },
+        {
+            "id": 5,
+            "task": "Meeting met vrienden"
+        },
+        {
+            "id": 6,
+            "task": "Administratie"
+        },
+        {
+            "id": 7,
+            "task": "Bankzaken"
+        }
+]
+}
